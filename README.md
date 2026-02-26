@@ -114,6 +114,10 @@ ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2<br>
 •	Successful pings PC ↔ PC<br>
+![WhatsApp Image 2026-02-26 at 10 29 25 AM](https://github.com/user-attachments/assets/d26a1932-96ad-42ae-9fc4-bb635fa997a0)
+![WhatsApp Image 2026-02-26 at 10 29 19 AM](https://github.com/user-attachments/assets/cfe3413f-f5f9-47cc-b9f5-b1ce5511478d)
+![WhatsApp Image 2026-02-26 at 10 29 31 AM](https://github.com/user-attachments/assets/d98bef7c-42a0-4767-81d4-552ffafe0878)
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Routers, switches, and PCs were configured with correct addressing. Connectivity within LANs and across WAN was verified.
